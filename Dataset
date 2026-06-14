@@ -1,0 +1,8 @@
+| Column     | Description      |
+| ---------- | ---------------- |
+| SupplierID | Supplier         |
+| Material   | Material         |
+| Region     | Location         |
+| LeadTime   | Actual Lead Time |
+| OrderQty   | Quantity         |
+| Price      | Unit Cost        |
