@@ -1,0 +1,19 @@
+ERP Data
+     |
+     v
+SQL Extraction
+     |
+     v
+Python Data Cleaning
+     |
+     v
+Feature Engineering
+     |
+     v
+ML Model Training
+     |
+     v
+Lead Time Prediction
+     |
+     v
+Power BI Dashboard
