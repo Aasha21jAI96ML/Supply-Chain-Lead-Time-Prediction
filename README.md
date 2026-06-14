@@ -1,2 +1,25 @@
 # Supply-Chain-Lead-Time-Prediction
-Supply-Chain-Lead-Time-Prediction/  │ ├── data/ ├── notebooks/ │   └── lead_time_prediction.ipynb │ ├── sql/ │   └── data_extraction.sql │ ├── dashboard/ │   └── PowerBI.pbix │ ├── images/ │ ├── README.md └── requirements.txt
+
+# Lead Time Prediction
+
+Predict supplier lead times using Machine Learning.
+
+## Business Problem
+
+Late supplier deliveries impact inventory and customer commitments.
+
+## Solution
+
+Built a Random Forest model to predict supplier lead times.
+
+## Tools
+
+- Python
+- SQL
+- Power BI
+
+## Results
+
+- Improved lead time visibility
+- Reduced inventory risk
+- Increased planning accuracy
