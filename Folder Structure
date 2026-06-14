@@ -1,0 +1,20 @@
+Supply-Chain-Lead-Time-Prediction
+
+├── data
+│   ├── raw
+│   └── processed
+│
+├── notebooks
+│   └── LeadTimePrediction.ipynb
+│
+├── sql
+│   └── supplier_extract.sql
+│
+├── dashboard
+│   └── LeadTimeDashboard.pbix
+│
+├── images
+│
+├── requirements.txt
+│
+└── README.md
