@@ -1,0 +1,13 @@
+Data Cleaning:
+df.drop_duplicates()
+df.fillna()
+
+Feature Engineering:
+Average Lead Time
+Order Frequency
+Supplier Performance Score
+Region Risk Index
+
+Model:
+RandomForestRegressor
+
